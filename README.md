@@ -5,7 +5,7 @@ Team: Insight Job
 
 Team members: 
 
-	Arisdarkh (Comp Sci Viz Uni)
+	Aristarkh (Comp Sci Viz Uni)
 	
 	Xander (Masters Data Science Canterbury Uni)
 	
