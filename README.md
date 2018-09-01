@@ -110,15 +110,18 @@ These key messages were commonly supplemented with additional information includ
 
 
 # Thank you!
-Simon Ross	MOH						Dataland Organizers
-Esther Lim	MOH						Dataland Data Frustrations Desk
-Jocelyn		STATs
-Dishan		DIA - Govtech program
-Lisa Newland	Digital channels 
-Dan		Open Polytechnic
-Kay Jones	Many Many Ideas and Next steps
-Paul Stone	Licensing
-Rochelle	Presentations / pitching
+* Simon Ross	MOH						
+* Esther Lim	MOH						
+* Jocelyn		STATs
+* Dishan		DIA - Govtech program
+* Lisa Newland	Digital channels 
+* Dan		Open Polytechnic
+* Kay Jones	Many Many Ideas and Next steps
+* Paul Stone	Licensing
+* Rochelle	Presentations / pitching
+* Dataland Organizers
+* Dataland Data Frustrations Desk
+
 
 
 
