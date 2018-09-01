@@ -17,6 +17,7 @@ The People:
 	
 	![](/images/people.jpg)
 	
+	
 # Problem?
 New Zealand has some pretty bad child oral health stats
 Number of kids with cavities has dropped (75% to 50%)
