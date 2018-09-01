@@ -9,15 +9,17 @@ Challenge: Ministry Of Health - Child Oral Health
 
 The People:
 
+
 	Aristarkh - Comp Sci Victoria University
 	Xander - Masters Data Science Canterbury Uni
 	Chadz - Master Of Softwear/Bsc in Electronic & Comp Sci Victoria University
 	Liang -  Data Analyst ACC
 	Julian - Data Analyst Flux Federation
 	
-	![](/images/people.jpg)
 	
-	
+
+![](/images/people.jpg)	
+
 # Problem?
 New Zealand has some pretty bad child oral health stats
 Number of kids with cavities has dropped (75% to 50%)
