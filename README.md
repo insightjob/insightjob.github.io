@@ -14,7 +14,9 @@ The People:
 	Chadz - Master Of Softwear/Bsc in Electronic & Comp Sci Victoria University
 	Liang -  Data Analyst ACC
 	Julian - Data Analyst Flux Federation
-
+	
+	![](/images/people.jpg)
+	
 # Problem?
 New Zealand has some pretty bad child oral health stats
 Number of kids with cavities has dropped (75% to 50%)
