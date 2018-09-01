@@ -17,6 +17,8 @@ Find a way to leverage social media alongside routinely collect government datas
 
 Interpretation: - 
 
+!(/images/DMFT2014.jpg)
+
 # 3 What we did:
 Data Journalism into investigating the the issue to 
 Research what data is in the public space to understand the domain
