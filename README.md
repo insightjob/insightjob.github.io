@@ -70,13 +70,13 @@ Low cost
 Education focus
 
 # Additional Recommendation:
-Don’t Run a social media campaign just yet (we’re not experts)
-Decision tree - Deeper analysis on cause and effect - 
-Education?
-Behaviour change
-Poverty / deprivation
-Understanding of what organizations are already in this space
-Start a discussion
+* Don’t Run a social media campaign just yet (we’re not experts)
+* Decision tree - Deeper analysis on cause and effect - 
+* Education??
+* Behaviour change
+* Poverty / deprivation
+* Understanding of what organizations are already in this space
+* Start a discussion
 
 Child Oral Health Promotion: Stakeholder Engagement and Resource Stocktake Publication Recommendation
 The  five  basic messages focus on  actions  for  good  oral  health   behaviour. These include:
