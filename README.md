@@ -7,7 +7,7 @@ The Peoples: (just an image)
 
 	Aristarkh - Comp Sci Victoria University
 	Xander - Masters Data Science Canterbury Uni
-	Chadz - ECEN honours student  Victoria University
+	Chadz - Master Of Softwear/Bsc in Electronic & Comp Sci Victoria University
 	Liang -  Data Analyst ACC
 	Julian - Data Analyst Flux Federation
 	
