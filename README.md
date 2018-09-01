@@ -7,7 +7,7 @@ Challenge: Ministry Of Health 1. Child Oral Health
 The Peoples: (just an image)
 
 	Aristarkh - Comp Sci Victoria University
-	Xander - Masters of Applied Data Science Student Canterbury University
+	Xander - Masters Data Science Canterbury Uni
 	Chadz - ECEN honours student  Victoria University
 	Liang -  Data Analyst ACC
 	Julian - Data Analyst Flux Federation
@@ -71,6 +71,35 @@ Education focus
 # 12 Additional Recommendation:
 More detailed analysis with Stats IDI data ( not publicly accessible)
 Can’t id cause, but likely depreviation as primarily cause in complex space with education being a factor - social media
+
+Child Oral Health Promotion: Stakeholder Engagement and Resource Stocktake Publication Recommendation
+The  five  basic messages focus on  actions  for  good  oral  health   behaviour. These include:
+ 
+•Brush	twice per day (with fluoride toothpaste)
+![](/images/brush.jpg)
+Source:https://pixabay.com/en/brushing-teeth-tooth-health-dentist-787630/
+•Spit don’t rinse
+![](/images/spit.jpg)
+Source:https://pixabay.com/en/brushing-teeth-tooth-child-2103217/
+•Eat healthy snacks and	avoid	sugar
+![](/images/snack.jpg)
+Source:https://pixabay.com/en/vegetables-vegetable-basket-harvest-752153/
+•Water	and milk are the best drinks
+![](/images/water.jpg)
+Source:https://pixabay.com/en/thirst-water-bottle-hydrate-water-1474240/
+•Dental	care is	free for under 18s
+![](/images/free.png)
+Source:https://pixabay.com/en/dental-care-dental-mascot-teeth-2516133/
+       
+These key messages were commonly supplemented with additional information including:         	
+•Not putting children to bed with bottles	
+•Using	a smear	of fluoride toothpaste	
+•Limiting sugar and if you have to consume it do so as part of a meal	
+•Not sharing tooth brushes	
+•Not kissing children on the mouth	
+•Not sharing eating utensils	
+•Allowing  teeth time  to “rest” between meals.	
+
 
 
 
