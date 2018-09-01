@@ -1,9 +1,13 @@
 # Insight Job
+
 Dataland Hack NZ    	
-Challenge: Ministry Of Health 1. Child Oral Health 
+
+Challenge: Ministry Of Health - Child Oral Health 
+
 #Engagement # Education #SocialMedia #MoH
 
-The Peoples: (just an image)
+
+The People:
 
 	Aristarkh - Comp Sci Victoria University
 	Xander - Masters Data Science Canterbury Uni
