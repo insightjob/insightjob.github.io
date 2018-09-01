@@ -10,7 +10,13 @@ The Peoples: (just an image)
 	Chadz - Master Of Softwear/Bsc in Electronic & Comp Sci Victoria University
 	Liang -  Data Analyst ACC
 	Julian - Data Analyst Flux Federation
-	
+
+# Problem?
+New Zealand has some pretty bad child oral health stats
+Number of kids with cavities has dropped (75% to 50%)
+But the those affected are having greater consequences...
+
+
 # Outcome / Goal: 
 Find a way to leverage social media alongside routinely collect government datasets to help address this health problem.
 
@@ -19,18 +25,18 @@ Interpretation: -
 ![](/images/DMFT2014.jpg)
 Source: https://www.mah.se/CAPP/Country-Oral-Health-Profiles/Global_burden_of_caries_disease/
 
+# Target Audience
+Parents of preschool kids
+Make information available and make it accessible
+
 # What we did:
-Data Journalism into investigating the the issue to 
-Research what data is in the public space to understand the domain
-Create a prototype web page with 
-Social media images to build awareness - that this is a problem in the general public
-Images could then be used in multiple media formats both digital and print
-
-# The story: (minus to page)
-	Dataland NZ hackathon 31st aug -1 st Sep 2018
-	5 guys chose the MOH Child Oral Health Challenge
-	We’re pretty indecisive so we sort of fell into this awesome team
-
+* Short interactions starting with <2 hours sprints
+	*Find data
+	*Interesting insights?
+	*Visualize
+	*Repeat
+* End of day One: Focus education / social media / data journalism
+* Day two - rinse and repeat crunch on presentation ( focus)
 
 # Initial Observations:
 Short sprints as we didn’t know much about the problem space
@@ -46,10 +52,6 @@ Images / infographics
 Website (github.io)
 Google slides
 Presentation
-
-# The problem:
-	
-# The Audience:
 
 # The Data:
 	Lots - but high level
@@ -68,8 +70,13 @@ Low cost
 Education focus
 
 # Additional Recommendation:
-More detailed analysis with Stats IDI data ( not publicly accessible)
-Can’t id cause, but likely depreviation as primarily cause in complex space with education being a factor - social media
+Don’t Run a social media campaign just yet (we’re not experts)
+Decision tree - Deeper analysis on cause and effect - 
+Education?
+Behaviour change
+Poverty / deprivation
+Understanding of what organizations are already in this space
+Start a discussion
 
 Child Oral Health Promotion: Stakeholder Engagement and Resource Stocktake Publication Recommendation
 The  five  basic messages focus on  actions  for  good  oral  health   behaviour. These include:
@@ -98,8 +105,6 @@ These key messages were commonly supplemented with additional information includ
 * Not kissing children on the mouth	
 * Not sharing eating utensils	
 * Allowing  teeth time  to “rest” between meals.	
-
-
 
 
 # Thank you!
