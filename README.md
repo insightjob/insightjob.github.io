@@ -7,7 +7,7 @@ Challenge: Ministry Of Health 1. Child Oral Health
 The Peoples: (just an image)
 
 	Aristarkh - Comp Sci Victoria University
-	Xander - Masters Data Science Canterbury Uni
+	Xander - Masters of Applied Data Science Canterbury University
 	Chadz - ECEN honours student  Victoria University
 	Liang -  Data Analyst ACC
 	Julian - Data Analyst Flux Federation
