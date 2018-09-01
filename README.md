@@ -93,7 +93,7 @@ Source:https://pixabay.com/en/vegetables-vegetable-basket-harvest-752153/
 * Water	and milk are the best drinks
 ![](/images/water.jpg)
 Source:https://pixabay.com/en/thirst-water-bottle-hydrate-water-1474240/
-* Dental	care is	free for under 18s
+* Dentalcare is	free for under 18s
 ![](/images/free.png)
 Source:https://pixabay.com/en/dental-care-dental-mascot-teeth-2516133/
        
