@@ -18,6 +18,7 @@ Find a way to leverage social media alongside routinely collect government datas
 Interpretation: - 
 
 ![](/images/DMFT2014.jpg)
+Source: https://www.mah.se/CAPP/Country-Oral-Health-Profiles/Global_burden_of_caries_disease/
 
 # 3 What we did:
 Data Journalism into investigating the the issue to 
