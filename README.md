@@ -56,9 +56,11 @@ Presentation
 		LISTS
 
 # 10 The output:
-Image 1
-Image 2
-Image 3
+![](/images/dentist_visits_brushplot.JPG)
+![](/images/dentist_visits_timeline.JPG)
+![](/images/discharge_histogram.JPG)
+![](/images/discharge_plot.JPG)
+![](/images/teeth_issues.JPG)
 Website
 
 # 11 Benefit:
